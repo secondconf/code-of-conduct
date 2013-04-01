@@ -113,7 +113,7 @@ conference chair should make any announcements. No personal information about
 either party will be disclosed as part of this process.
 
 If some attendees were angered by the incident, it is best to apologize to them
-that the incident occurred to begin with.  If there are residual hard feelings,
+that the incident occurred to begin with. If there are residual hard feelings,
 suggest to them to write an email to the conference chair or to the event
 coordinator. It will be dealt with accordingly.
 

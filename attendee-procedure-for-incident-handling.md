@@ -4,7 +4,7 @@ Reports][responding-to-reports]".
 
 1. Keep in mind that all conference staff will be wearing a conference
    lanyard with the word "STAFF" on it (or otherwise clearly marked as
-   staff). The staff will also be prepared to handle the incident.  All of our
+   staff). The staff will also be prepared to handle the incident. All of our
    staff are informed of the [code of conduct
    policy][code-of-conduct] and guide for handling harassment at 
    the conference. *There will be a mandatory staff meeting onsite at the 
