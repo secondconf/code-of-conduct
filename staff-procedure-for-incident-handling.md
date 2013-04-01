@@ -1,25 +1,21 @@
 This procedure has been adopted from the Ada Initiative's guide titled
-"[Conference anti-harassment/Responding to
-Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/
-Responding_to_reports)”.
+"[Conference anti-harassment/Responding to Reports][responding-to-reports]".
 
 -------------------------------------------------------------------------------
 
 Be sure to have a good understanding of our Code of Conduct policy, which can
-be found here:
-[https://us.pycon.org/2013/about/code-of-conduct/](https://us.pycon.org/2013/
-about/code-of-conduct/)
+be found here: 
+http://www.secondconf.com/2013/code-of-conduct/code-of-conduct.html
 
 Also have a good understanding of what is expected from an attendee that wants
 to report a harassment incident. These guidelines can be found here:
-[/2013/about/code-of-conduct/harassment-incidents/](/2013/about/code-of-conduct
-/harassment-incidents/)
+http://www.secondconf.com/2013/code-of-conduct/attendee-procedure-for-incident-handling.html
 
 Try to get as much of the incident in written form by the reporter. If you
 cannot, transcribe it yourself as it was told to you. The important information
 to gather include the following:
 
-- Identifying information (name/badge number) of the participant doing the 
+- Identifying information (name / Twitter handle) of the participant doing the 
   harassing
 - The behavior that was in violation
 - The approximate time of the behavior (if different than the time the report 
@@ -28,8 +24,8 @@ to gather include the following:
 - Other people involved in the incident
 
 Prepare an initial response to the incident. This initial response is very
-important and will set the tone for PyCon. Depending on the severity/details of
-the incident, please follow these guidelines:
+important and will set the tone for SecondConf. Depending on the severity and 
+details of the incident, please follow these guidelines:
 
 - If there is any general threat to attendees or the safety of anyone including 
   conference staff is in doubt, summon security or police
@@ -41,12 +37,12 @@ the incident, please follow these guidelines:
 - If everyone is presently physically safe, involve law enforcement or security 
   only at a victim's request
 
-There are also some guidelines as to what not to do as an initial response:
+There are also some guidelines as to what _not_ to do as an initial response:
 
 - Do not overtly invite them to withdraw the complaint or mention that 
   withdrawal is OK. This suggests that you want them to do so, and is therefore 
-  coercive. "If you're OK with it [pursuing the complaint]" suggests that you 
-  are by default pursuing it and is not coercive.
+  coercive. "If you're OK with pursuing the complaint" suggests that you are by 
+  default pursuing it and is not coercive.
 - Do not ask for their advice on how to deal with the complaint. This is a 
   staff responsibility.
 - Do not offer them input into penalties. This is the staff's responsibility.
@@ -104,8 +100,8 @@ encourage an apology from the harasser.
 
 It is very important how we deal with the incident publicly. Our policy is to
 make sure that everyone aware of the initial incident is also made aware that
-it is not according to policy and that official action has been taken - while
-still respecting the privacy of individual attendees.  When speaking to
+it is not according to policy and that official action has been taken -- while
+still respecting the privacy of individual attendees. When speaking to
 individuals (those who are aware of the incident, but were not involved with
 the incident) about the incident it is a good idea to keep the details out.
 
@@ -121,7 +117,12 @@ that the incident occurred to begin with.  If there are residual hard feelings,
 suggest to them to write an email to the conference chair or to the event
 coordinator. It will be dealt with accordingly.
 
-A listing of [PyCon staff is located here](/2013/about/staff/), including
+A [listing of SecondConf staff is located here][staff-listing], including
 contact phone numbers. If at all possible, all reports should be made directly
-to [Ewa Jodlowska](mailto:ewa@python.org) (Event Coordinator) or [Jesse
-Noller](mailto:jnoller@python.org) (PyCon Chair).
+to [Amy Kinney](mailto:amy@secondconf.com) (Event Coordinator) or [David L
+Kinney](mailto:david@secondconf.com) (SecondConf Chair).
+
+
+
+[responding-to-reports]: http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports
+[staff-listing]:         http://www.secondconf.com/2013/code-of-conduct/staff.html
